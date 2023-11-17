@@ -68,7 +68,7 @@ Pipeline ( cleansing, wrangling, visualization, modeling, interpretation), Distr
 * Spearheaded data quality initiatives by identifying and resolving data concerns;**executed data cleaning and preprocessing** operations
 using Python programming, leading to a significant 40% decrease in data errors and **enhanced data integrity** for business analyses
 
-* **Led team of up to 3 Interns** to enhance the existing strategy for a **leading Non-Government Organization(NGO) using **Python and Tableau**
+* **Led team of up to 3 Interns** to enhance the existing strategy for a **leading Non-Government Organization(NGO) using Python and Tableau**
 
 * Leveraged **natural language processing techniques(NLP**) like **tokenization, topic modeling and text summarization** to extract valuable
 insights from text data which enhanced competitive advantage by staying ahead of industry trends.
