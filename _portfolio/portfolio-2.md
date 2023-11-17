@@ -6,7 +6,7 @@ collection: portfolio
 
 **Objective**
 
-**This was a part of my personal project where I worked on Building A NLP Model to Classify the reviews from Amazon**
+**This was a part of my personal [project](https://github.com/sriramsripada20s/Amazon_FineFood_Review_Analysis) where I worked on Building A NLP Model to Classify the reviews from Amazon**
 
 To classify reviews as positive (Rating of 4 or 5) or negative (rating of 1 or 2) based on the text/reviews provided by various users on Amazon using Machine Learning and Natual Language Processing Techniques
 

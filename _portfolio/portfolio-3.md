@@ -6,7 +6,7 @@ collection: portfolio
 
 **Abstract**
 
-In this project we will have a look into various factors like life expectancy, GDP growth (%), Death Rates, Healthcare Expenditure (% of GDP), Healthcare Access and Quality Index (HAQ index), Causes of Death for various diseases and many more variables which are affecting the global health and economies of countries and these variables are used to answer my research questions in this project
+In this [project](https://github.com/sriramsripada20s/Global_Health_Dashboard) we will have a look into various factors like life expectancy, GDP growth (%), Death Rates, Healthcare Expenditure (% of GDP), Healthcare Access and Quality Index (HAQ index), Causes of Death for various diseases and many more variables which are affecting the global health and economies of countries and these variables are used to answer my research questions in this project
 
 
 **Research Questions**
