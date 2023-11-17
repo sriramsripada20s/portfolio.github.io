@@ -2,7 +2,7 @@
 title: "Database vs Data Warehouse vs Data Lake"
 excerpt: "Here I have listed down my understanding between Database, Data Warehouse and Data Lake"
 permalink: /posts/blog1/
-collection: posts
+#collection: posts
 tags:
   - cool posts
   - category1
