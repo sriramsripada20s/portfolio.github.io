@@ -14,3 +14,9 @@ To predict Fault Severity at particular time and location based on log data avai
 
 **Overview of Simple End to End Architecture which I followed**
 ![webapp](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/c9199016-7cfc-4c02-9740-942b73ed1e47)
+
+**Deployed Streamlit web app on Heroku Cloud created so that users could explore my LGBM Classification model predicting the Telstra network's Fault Severity at a time at a particular location based on the log data available.**
+
+Steamlit App Deployed on Heroku
+![streamlit](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/9a6180a2-3543-40b5-9762-1300d2b4308a)
+
