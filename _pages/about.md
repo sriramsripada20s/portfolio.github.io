@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I'm Sriram Sripada"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,87 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Welcome to my Data Analytics Portfolio!**
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+🚀 **About Me**:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Data Science Enthusiast** | **Change Catalyst** | **Explorer of Insights**
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I'm enthusiastic and results-driven professional with a strong foundation in data analytics, machine learning, and software development. My journey in the tech industry has been marked by impactful contributions to various organizations, and I'm excited to share my experiences with you. I have a keen interest in exploring and innovating within the realms of data science and engineering.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Education
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**University of South Florida Aug 2022 - May 2024**
 
-**Markdown generator**
+Master of Science in Business Analytics and Information Systems GPA:3.71
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**University of Hyderabad Jan 2021 - Feb 2022**
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Post Graduate Diploma in Artificial Intelligence and Machine Learning 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**Osmania University Aug 2016 - Aug 2020**
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Bachelor of Engineering in Electronics and Communication Engineering
+
+# Skills
+
+**Languages:** Python, R, C, SQL, HTML, CSS
+
+**Tools:** Jupyter, VS Code, PyCharm, R studio, Git, Linux, Docker, Postman, Apache Kafka, Spark, Tableau, Power BI, SQL Server,PostgreSQL
+
+**Statistical Skills:** Descriptive and Inferential Statistics, Hypothesis Testing, A/B testing, ANOVA, Time Series, Linear (OLS, GLM)
+
+**Big Data and Machine Learning:** Spark, Hadoop, MongoDB, Python (Pandas, NumPy, Scikit-learn, API’s , NLTK, Tensorflow, Keras, Flask),
+Classification, Decision Tree, Random Forest, Natural Language Processing, Ploty Dash, Supervised, Unsupervised Learning, Data Science
+Pipeline ( cleansing, wrangling, visualization, modeling, interpretation)
+
+# Work Experience
+
+**Data Science Intern at University of North Florida, Jacksonville, FL** 
+
+**June 2023 – Aug 2023** [Data Science Internship Link](https://dssg.unf.edu/2023program.html)
+
+Spearheaded data quality initiatives by identifying and resolving data concerns;**executed data cleaning and preprocessing** operations
+using Python programming, **leading to a significant 40% decrease** in data errors and **enhanced data integrity** for business analyses
+
+**Led team of up to 3 Interns** to enhance the existing strategy for a **leading Non-Government Organization(NGO)** using **Python and Tableau.**
+
+Leveraged **natural language processing techniques(NLP**) like **tokenization, topic modeling and text summarization** to extract valuable
+insights from text data which enhanced competitive advantage by staying ahead of industry trends.
+
+Designed interactive **dashboards using Tableau** enabling stakeholders to interpret data-driven insights, leading to 2x faster response to
+market trends across industries.
+
+**Software Engineer at [Softility](https://www.softility.com/), Hyderabad, India** 
+
+**Jan 2021 - Aug 2022**
+
+Developed **Python scripts** that **reduced data retrieval and processing time for various network devices by 40%** through efficient
+utilization of SNMP protocol, resulting in **enhanced data accessibility and operational efficiency** for a **leading US broadband company.**
+
+Optimized and worked on **validating the quality assurance** of data polled from **Kafka topics** which **maximized data quality by 20%.**
+
+**Reduced software deployment time by 50% in a DevOps** environment through **development of Linux/Unix shell scripts** and leveraged
+Git version control and CI/CD pipelines.
+
+**Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India**
+
+**Aug 2020 - Dec 2020**
+
+Performed thorough **exploratory data analysis, feature engineering, anomaly detection** and leveraged Python to implement **Machine Learning algorithms**, resulting in a significant 25% increase in model’s accuracy for both classification and regression tasks.
+
+Implemented data analysis using **statistical techniques** to monitor key performance metrics such as R2 score, ROC-AUC, and log loss.
+
+**Saved 10 hours per week of manual reporting using the Tableau dashboard** to assess core business KPIs.
+
+# Certifications & Leadership
+
+**Databricks Accreditation Lakehouse Fundamentals** [Verify](https://credentials.databricks.com/2d4dfabd-0a29-496d-a590-e43347066bf0)
+
+**Presented Internship Project** at **DSSG 2023 Conference**, highlighting **social impact** through data-driven solutions 
+[Watch Youtube Event](https://www.youtube.com/watch?v=VfJNe8VmRwA)
+
+**Won First Prize** for a **Technical Presentation** on **Artificial Intelligence** at the IETE Club's event
+
+**Secretary | Student Group @ IETE** | **Led a 200-students** team in planning, organizing, and executing successful events and workshops,
+fostering growth and innovation in the field.
