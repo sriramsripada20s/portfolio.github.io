@@ -6,7 +6,7 @@ collection: portfolio
 
 **Abstract**
 
-Fault severity prediction is a crucial business statistic for telecom providers to create customer advocacy. In this project, we use data mining techniques to predict fault severity at a location. We evaluate various machine learning models based on classification metrics.
+Fault severity prediction is a crucial business statistic for telecom providers to create customer advocacy. In this [project](https://github.com/sriramsripada20s/Telstra_ML_endtoend_Project), we use data mining techniques to predict fault severity at a location. We evaluate various machine learning models based on classification metrics.
 
 **Objective**
 
