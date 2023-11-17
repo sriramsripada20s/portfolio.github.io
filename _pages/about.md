@@ -11,7 +11,7 @@ redirect_from:
 **Welcome to my Data Analytics Portfolio!**
 
 **About Me**
-![robot](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/c0cbae59-a9f1-4c50-b74a-894233fcb011){: .align-right width="50px"}
+![robot](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/c0cbae59-a9f1-4c50-b74a-894233fcb011){: .align-right width="250px"}
 
 🎓 I am a Graduate Student from University of South Florida - Muma College of Business
 
