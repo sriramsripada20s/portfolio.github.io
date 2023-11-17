@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sri Ram's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Sri Ram Sripada"
 description              : &description "personal description"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  watch?v=siDg93LPd8Q
+  youtube          :  user/watch?v=siDg93LPd8Q
   wikipedia        :
 
 
