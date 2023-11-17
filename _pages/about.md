@@ -19,11 +19,12 @@ redirect_from:
 
 📈 I have a keen interest in exploring and innovating within the realms of data science and engineering.
 
-💡 My Vision: 
+**My Vision**
 
 📊 Bridging Data with Purpose
 
 🚀 Leveraging Data Science to Drive Change
+
 🌐 Creating Data-Driven Solutions to Complex Challenges
 
 # Education
