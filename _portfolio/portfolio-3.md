@@ -59,3 +59,6 @@ Three dashboards have been created to answer my research questions. Dashboards a
 **2.Healthcare investment and Impact Dashboard** will help you explore average health expenditure as % of GDP, DALY rate, mortality rate due to unsafe wash surfaces, % of population having access to drinking water across various countries. Provides a view of the relationship between healthcare investment, health outcomes, and access to basic amenities
 
 **3.Demographic and Disease Specific Outcomes Dashboard** will help you explore high deaths among different age groups and average number of years lost due to specific
+
+![dashboarda](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/e25f7703-36a9-41d1-acf9-3109b03fd7e3)
+
