@@ -10,23 +10,34 @@ redirect_from:
 
 **Welcome to my Data Analytics Portfolio!**
 
-🚀 **About Me**:
+**About Me**:
 
-**Data Science Enthusiast** | **Change Catalyst** | **Explorer of Insights**
+🎓 I am a Graduate Student from University of South Florida - Muma College of Business
 
-I'm enthusiastic and results-driven professional with a strong foundation in data analytics, machine learning, and software development. My journey in the tech industry has been marked by impactful contributions to various organizations, and I'm excited to share my experiences with you. I have a keen interest in exploring and innovating within the realms of data science and engineering.
+💻 I'm enthusiastic and results-driven professional with a strong foundation in data analytics, machine learning, and software development.
+
+📈 I have a keen interest in exploring and innovating within the realms of data science and engineering.
+
+💡 My Vision: 
+
+📊 Bridging Data with Purpose
+
+🚀 Leveraging Data Science to Drive Change
+🌐 Creating Data-Driven Solutions to Complex Challenges
 
 # Education
 
-**University of South Florida Aug 2022 - May 2024**
+**University of South Florida                         Aug 2022 - May 2024** 
 
-Master of Science in Business Analytics and Information Systems GPA:3.71
+Master's in Business Analytics and Information Systems  GPA:3.71
 
-**University of Hyderabad Jan 2021 - Feb 2022**
+**Coursework: Data Mining, Advance Database Managment System, Data Science Programming, Analytical Methods for Business, Distributed Information Systems, Data Visualization**
 
-Post Graduate Diploma in Artificial Intelligence and Machine Learning 
+**University of Hyderabad                             Jan 2021 - Feb 2022**
 
-**Osmania University Aug 2016 - Aug 2020**
+Post Graduate Diploma in Artificial Intelligence and Machine Learning
+
+**Osmania University                                  Aug 2016 - Aug 2020**
 
 Bachelor of Engineering in Electronics and Communication Engineering
 
@@ -44,7 +55,7 @@ Pipeline ( cleansing, wrangling, visualization, modeling, interpretation)
 
 # Work Experience
 
-**Data Science Intern at University of North Florida, Jacksonville, FL** 
+## Data Science Intern at University of North Florida, Jacksonville, FL
 
 **June 2023 – Aug 2023** [Data Science Internship Link](https://dssg.unf.edu/2023program.html)
 
@@ -59,7 +70,7 @@ insights from text data which enhanced competitive advantage by staying ahead of
 Designed interactive **dashboards using Tableau** enabling stakeholders to interpret data-driven insights, leading to 2x faster response to
 market trends across industries.
 
-**Software Engineer at [Softility](https://www.softility.com/), Hyderabad, India** 
+## Software Engineer at [Softility](https://www.softility.com/), Hyderabad, India** 
 
 **Jan 2021 - Aug 2022**
 
@@ -71,7 +82,7 @@ Optimized and worked on **validating the quality assurance** of data polled from
 **Reduced software deployment time by 50% in a DevOps** environment through **development of Linux/Unix shell scripts** and leveraged
 Git version control and CI/CD pipelines.
 
-**Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India**
+## Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India**
 
 **Aug 2020 - Dec 2020**
 
@@ -84,6 +95,8 @@ Implemented data analysis using **statistical techniques** to monitor key perfor
 # Certifications & Leadership
 
 **Databricks Accreditation Lakehouse Fundamentals** [Verify](https://credentials.databricks.com/2d4dfabd-0a29-496d-a590-e43347066bf0)
+
+**Distributed Storage and Processing Fundamentals Certification**[Verify](https://learn.trendytech.in/certificates/gkm5t2face)
 
 **Presented Internship Project** at **DSSG 2023 Conference**, highlighting **social impact** through data-driven solutions 
 [Watch Youtube Event](https://www.youtube.com/watch?v=VfJNe8VmRwA)
