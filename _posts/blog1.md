@@ -1,6 +1,7 @@
 ---
 title: "Database vs Data Warehouse vs Data Lake"
-excerpt: "Here I have listed down my understanding between Database, Data Warehouse and Data Lake"
+date: 2023-08-30
+#excerpt: "Here I have listed down my understanding between Database, Data Warehouse and Data Lake"
 permalink: /posts/blog1/
 #collection: posts
 tags:
@@ -8,6 +9,8 @@ tags:
   - category1
   - category2
 ---
+
+**Here I have listed down my understanding between Database, Data Warehouse and Data Lake**
 
 **Database:** Generally refers to a structured collection of data (structured data) optimised for efficient transactional processing.(OLTP - online transaction processing)
 
