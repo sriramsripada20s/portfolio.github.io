@@ -4,7 +4,7 @@ main:
     url: /files/SriramSripada-Resume.pdf
 
   - title: "Data Science Portfolio"
-    url: /dsportfolio/
+    url: /_dsportfolio/
         
   - title: "Blog Posts"
     url: /blogposts/
