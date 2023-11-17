@@ -27,17 +27,17 @@ redirect_from:
 
 # Education
 
-**University of South Florida                         Aug 2022 - May 2024** 
+**University of South Florida**                     **Aug 2022 - May 2024** 
 
 Master's in Business Analytics and Information Systems  GPA:3.71
 
-**Coursework: Data Mining, Advance Database Managment System, Data Science Programming, Analytical Methods for Business, Distributed Information Systems, Data Visualization**
+#### Coursework: Data Mining, Advance Database Managment System, Data Science Programming, Analytical Methods for Business, Distributed Information Systems, Data Visualization
 
-**University of Hyderabad                             Jan 2021 - Feb 2022**
+**University of Hyderabad**                         **Jan 2021 - Feb 2022**
 
 Post Graduate Diploma in Artificial Intelligence and Machine Learning
 
-**Osmania University                                  Aug 2016 - Aug 2020**
+**Osmania University**                              **Aug 2016 - Aug 2020**
 
 Bachelor of Engineering in Electronics and Communication Engineering
 
@@ -49,9 +49,9 @@ Bachelor of Engineering in Electronics and Communication Engineering
 
 **Statistical Skills:** Descriptive and Inferential Statistics, Hypothesis Testing, A/B testing, ANOVA, Time Series, Linear (OLS, GLM)
 
-**Big Data and Machine Learning:** Spark, Hadoop, MongoDB, Python (Pandas, NumPy, Scikit-learn, API’s , NLTK, Tensorflow, Keras, Flask),
+**Big Data and Machine Learning:** PySpark, Hadoop, MongoDB, Python (Pandas, NumPy, Scikit-learn, API’s , NLTK, Tensorflow, Keras, Flask),
 Classification, Decision Tree, Random Forest, Natural Language Processing, Ploty Dash, Supervised, Unsupervised Learning, Data Science
-Pipeline ( cleansing, wrangling, visualization, modeling, interpretation)
+Pipeline ( cleansing, wrangling, visualization, modeling, interpretation), Distributed Computing
 
 # Work Experience
 
@@ -84,13 +84,12 @@ Git version control and CI/CD pipelines.
 
 ## Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India**
 
-**Aug 2020 - Dec 2020**
+Duration: Aug 2020 - Dec 2020
 
-Performed thorough **exploratory data analysis, feature engineering, anomaly detection** and leveraged Python to implement **Machine Learning algorithms**, resulting in a significant 25% increase in model’s accuracy for both classification and regression tasks.
-
-Implemented data analysis using **statistical techniques** to monitor key performance metrics such as R2 score, ROC-AUC, and log loss.
-
-**Saved 10 hours per week of manual reporting using the Tableau dashboard** to assess core business KPIs.
+Conducted thorough exploratory data analysis and feature engineering.
+Implemented anomaly detection techniques.
+Leveraged Python to develop and implement Machine Learning algorithms.
+Achieved a notable 25% increase in model accuracy for both classification and regression tasks.
 
 # Certifications & Leadership
 
