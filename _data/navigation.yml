@@ -3,13 +3,13 @@ main:
   - title: "CV"
     url: /files/SriramSripada-Resume.pdf
 
-  - title: "Data Science Portfolio"
-    url: /_dsportfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /blogposts/
 
-  - title: "talks"
+  - title: "Talks"
     url: /talks/    
 
   - #title: "Teaching"
