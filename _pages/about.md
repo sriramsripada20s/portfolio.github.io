@@ -27,18 +27,25 @@ redirect_from:
 
 # Education
 
-**University of South Florida**                     **Aug 2022 - May 2024** 
+**University of South Florida** 
 
-Master's in Business Analytics and Information Systems  GPA:3.71
+Master's in Business Analytics and Information Systems  **GPA:3.71**
+
+**Duration:** Aug 2022 - May 2024
+
 ### Coursework: Data Mining, Advance Database Managment System, Data Science Programming, Analytical Methods for Business, Distributed Information Systems, Data Visualization
 
-**University of Hyderabad**                         **Jan 2021 - Feb 2022**
+**University of Hyderabad**                   
 
 Post Graduate Diploma in Artificial Intelligence and Machine Learning
 
-**Osmania University**                              **Aug 2016 - Aug 2020**
+**Duration:** Jan 2021 - Feb 2022
+
+**Osmania University**                     
 
 Bachelor of Engineering in Electronics and Communication Engineering
+
+**Duration:** Aug 2016 - Sep 2020
 
 # Skills
 
@@ -56,7 +63,7 @@ Pipeline ( cleansing, wrangling, visualization, modeling, interpretation), Distr
 
 ## Data Science Intern at University of North Florida, Jacksonville, FL
 
-* Duration: June 2023 – Aug 2023 [Data Science Internship Link](https://dssg.unf.edu/2023program.html)
+**Duration:** June 2023 – Aug 2023 [Data Science Internship Link](https://dssg.unf.edu/2023program.html)
 
 * Spearheaded data quality initiatives by identifying and resolving data concerns;**executed data cleaning and preprocessing** operations
 using Python programming, leading to a significant 40% decrease in data errors and **enhanced data integrity** for business analyses
@@ -71,7 +78,7 @@ market trends across industries.
 
 ## Software Engineer at [Softility](https://www.softility.com/), Hyderabad, India** 
 
-* Duration: Jan 2021 - Aug 2022
+**Duration:** Jan 2021 - Aug 2022
 
 * Developed **Python scripts** that **reduced data retrieval and processing time for various network devices by 40%** through efficient
 utilization of SNMP protocol, resulting in **enhanced data accessibility and operational efficiency** for a **leading US broadband company.**
@@ -83,7 +90,7 @@ Git version control and CI/CD pipelines.
 
 ## Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India
 
-* Duration: Aug 2020 - Dec 2020
+**Duration:** Aug 2020 - Dec 2020
 
 * Performed thorough exploratory data analysis, feature engineering, anomaly detection and leveraged Python to implement
 Machine Learning algorithms, resulting in a significant 25% increase in model’s accuracy for both classification and regression.
@@ -98,7 +105,7 @@ modelling.
 
 **Databricks Accreditation Lakehouse Fundamentals** [Verify](https://credentials.databricks.com/2d4dfabd-0a29-496d-a590-e43347066bf0)
 
-**Distributed Storage and Processing Fundamentals Certification**[Verify](https://learn.trendytech.in/certificates/gkm5t2face)
+**Distributed Storage and Processing Fundamentals Certification** [Verify](https://learn.trendytech.in/certificates/gkm5t2face)
 
 **Presented Internship Project** at **DSSG 2023 Conference**, highlighting **social impact** through data-driven solutions 
 [Watch Youtube Event](https://www.youtube.com/watch?v=VfJNe8VmRwA)
