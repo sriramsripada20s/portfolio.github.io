@@ -31,7 +31,7 @@ redirect_from:
 
 **University of South Florida** 
 
-* Master's in Business Analytics and Information Systems  **GPA:3.71**
+* Master's in Business Analytics and Information Systems **_GPA:3.71_**
 
 * Duration: Aug 2022 - May 2024
 
@@ -110,7 +110,7 @@ modelling.
 **Presented Internship Project** at **DSSG 2023 Conference**, highlighting **social impact** through data-driven solutions 
 [Watch Youtube Event](https://www.youtube.com/watch?v=VfJNe8VmRwA)
 
-**Won First Prize** for a **Technical Presentation** on **Artificial Intelligence** at the IETE Club's event
+**Won First Prize** for a **Technical Presentation** on **Artificial Intelligence** at the IETE Club's event -2020
 
 **Secretary | Student Group @ IETE** | **Led a 200-students** team in planning, organizing, and executing successful events and workshops,
 fostering growth and innovation in the field.
