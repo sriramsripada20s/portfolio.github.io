@@ -1,7 +1,7 @@
 ---
 title: "Amazon Fine Food Reviews - Python, Text Classification, Natural Language Processing"
 excerpt: "To classify reviews as positive (Rating of 4 or 5) or negative (rating of 1 or 2) based on the text/reviews provided by various users on Amazon using Machine Learning and Natual Language Processing Techniques"
-collection: portfolio
+collection: dsportfolio
 ---
 
 **Objective**
