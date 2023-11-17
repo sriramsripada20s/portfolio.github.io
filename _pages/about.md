@@ -31,23 +31,21 @@ redirect_from:
 
 **University of South Florida** 
 
-Master's in Business Analytics and Information Systems  **GPA:3.71**
+* Master's in Business Analytics and Information Systems  **GPA:3.71**
 
-**Duration:** Aug 2022 - May 2024
-
-### Coursework: Data Mining, Advance Database Managment System, Data Science Programming, Analytical Methods for Business, Distributed Information Systems, Data Visualization
+* ## Duration: Aug 2022 - May 2024
 
 **University of Hyderabad**                   
 
-Post Graduate Diploma in Artificial Intelligence and Machine Learning
+* Post Graduate Diploma in Artificial Intelligence and Machine Learning
 
-**Duration:** Jan 2021 - Feb 2022
+* ## Duration: Jan 2021 - Feb 2022
 
 **Osmania University**                     
 
-Bachelor of Engineering in Electronics and Communication Engineering
+* Bachelor of Engineering in Electronics and Communication Engineering
 
-**Duration:** Aug 2016 - Sep 2020
+* ## Duration: Aug 2016 - Sep 2020
 
 # Skills
 
@@ -78,7 +76,7 @@ insights from text data which enhanced competitive advantage by staying ahead of
 * Designed interactive **dashboards using Tableau** enabling stakeholders to interpret data-driven insights, leading to 2x faster response to
 market trends across industries.
 
-## Software Engineer at [Softility](https://www.softility.com/), Hyderabad, India** 
+## Software Engineer at [Softility](https://www.softility.com/), Hyderabad, India
 
 **Duration:** Jan 2021 - Aug 2022
 
@@ -94,12 +92,12 @@ Git version control and CI/CD pipelines.
 
 **Duration:** Aug 2020 - Dec 2020
 
-* Performed thorough exploratory data analysis, feature engineering, anomaly detection and leveraged Python to implement
+* Performed thorough **exploratory data analysis, feature engineering, anomaly detection and leveraged Python** to implement
 Machine Learning algorithms, resulting in a significant 25% increase in model’s accuracy for both classification and regression.
 
-* Implemented data analysis using statistical techniques to monitor key performance metrics like R2 score and log loss.
+* Implemented data analysis using **statistical techniques** to monitor key performance metrics like R2 score and log loss.
 
-* Designed database schemas to store scraped data and unified data storage resolving 30% of data quality issues faced in
+* Designed **database schemas** to store scraped data and unified data storage resolving 30% of data quality issues faced in
 modelling.
 
 
