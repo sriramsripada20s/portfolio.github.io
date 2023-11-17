@@ -32,19 +32,16 @@ redirect_from:
 **University of South Florida** 
 
 * Master's in Business Analytics and Information Systems  **GPA:3.71**
+* ### Duration: Aug 2022 - May 2024
 
-* ## Duration: Aug 2022 - May 2024
-
-**University of Hyderabad**                   
+**University of Hyderabad**   
 
 * Post Graduate Diploma in Artificial Intelligence and Machine Learning
-
-* ## Duration: Jan 2021 - Feb 2022
+* ### Duration: Jan 2021 - Feb 2022
 
 **Osmania University**                     
 
 * Bachelor of Engineering in Electronics and Communication Engineering
-
 * ## Duration: Aug 2016 - Sep 2020
 
 # Skills
