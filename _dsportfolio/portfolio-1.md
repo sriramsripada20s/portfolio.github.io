@@ -1,7 +1,7 @@
 ---
 title: "Predicting Service Faults On Telecommunications Network Using Machine Learning"
 excerpt: "Predicting Fault Severity on telecommunication network at particular time and location using Machine Learning Techniques"
-collection: portfolio
+collection: dsportfolio
 ---
 
 **Abstract**
