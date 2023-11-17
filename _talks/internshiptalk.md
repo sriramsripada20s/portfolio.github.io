@@ -1,5 +1,5 @@
 ---
-title: "FLORIDA - Data Science for Social Good Presentation(DSSG) - Gaining Insights from Patterns and Trends With GrowFL Florida Companies to Watch"
+title: "Data Science for Social Good Presentation(DSSG) - Gaining Insights from Patterns and Trends With GrowFL Florida Companies to Watch"
 collection: talks
 type: "Talk"
 permalink: /talks/internshiptalk
