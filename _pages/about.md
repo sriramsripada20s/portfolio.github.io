@@ -30,8 +30,7 @@ redirect_from:
 **University of South Florida**                     **Aug 2022 - May 2024** 
 
 Master's in Business Analytics and Information Systems  GPA:3.71
-
-## Coursework: Data Mining, Advance Database Managment System, Data Science Programming, Analytical Methods for Business, Distributed Information Systems, Data Visualization
+### Coursework: Data Mining, Advance Database Managment System, Data Science Programming, Analytical Methods for Business, Distributed Information Systems, Data Visualization
 
 **University of Hyderabad**                         **Jan 2021 - Feb 2022**
 
@@ -94,13 +93,6 @@ Machine Learning algorithms, resulting in a significant 25% increase in model’
 * Designed database schemas to store scraped data and unified data storage resolving 30% of data quality issues faced in
 modelling.
 
-
-
-● Performed thorough exploratory data analysis, feature engineering, anomaly detection and leveraged Python to implement
-Machine Learning algorithms, resulting in a significant 25% increase in model’s accuracy for both classification and regression.
-● Implemented data analysis using statistical techniques to monitor key performance metrics like R2 score and log loss.
-● Designed database schemas to store scraped data and unified data storage resolving 30% of data quality issues faced in
-modelling.
 
 # Certifications & Leadership
 
