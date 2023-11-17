@@ -13,7 +13,7 @@ Fault severity prediction is a crucial business statistic for telecom providers 
 To predict Fault Severity at particular time and location based on log data available Fault severity has 3 categories: 0,1,2 (0 meaning no fault, 1 meaning only a few, and 2 meaning many)
 
 **Overview of Simple End to End Architecture which I followed**
-![webapp](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/c9199016-7cfc-4c02-9740-942b73ed1e47)
+![architecture](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/51faf0b6-dfab-457a-87cb-dd5f99c3f09b)
 
 **Deployed Streamlit web app on Heroku Cloud created so that users could explore my LGBM Classification model predicting the Telstra network's Fault Severity at a time at a particular location based on the log data available.**
 
