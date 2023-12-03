@@ -10,4 +10,21 @@ collection: portfolio
 3. Used MLFLOW for machine learning model tracking and logging.
 4. Deployed my web app on Amazon EC2 infrastructure.
 
-You can find the Project code [here](https://github.com/sriramsripada20s/Credit_Churn_Prediction_with_MLFlow)https://github.com/sriramsripada20s/Credit_Churn_Prediction_with_MLFlow) 
+Below are some of the screenshots for my streamlit web application and Amazon Ec2 Deployment.
+
+**Customer Churn Streamlit Web App**
+![streamlit-app](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/3b1ba908-420d-4f79-8f61-018e8d68bb01)
+
+**Machine Learning Model Tracking using MLFLOW**
+![mlflow](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/42bb3c45-6b13-4c8e-b9e3-7da5f839219f)
+
+**App Deployed on Amazon EC2 Instance: Summary**
+![ec2-streamlit](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/7224e782-de42-41c8-b53c-e9655e24c5e4)
+
+**Model Deployment on Amazon EC2**
+![app-streamlit](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/a09aa40a-5a36-4037-99bb-b8134a2df927)
+
+You can find the Project code [here](https://github.com/sriramsripada20s/Credit_Churn_Prediction_with_MLFlow) 
+
+
+
