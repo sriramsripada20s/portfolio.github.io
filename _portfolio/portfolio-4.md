@@ -7,7 +7,6 @@ collection: portfolio
 **Project Details**
 1. Orchestrated robust end-to-end data science pipelines using Python, handling data ingestion, data validation, data preprocessing, model training, and model deployment using Streamlit to ensure accurate fraud prediction.
 
-2. Implemented real-time monitoring of ML models for experiment tracking on DagsHub's free hosted MLflow serve
 
 **Some parts of this Project is still in progress as I am working on it and Documentation in Progress.**
 
