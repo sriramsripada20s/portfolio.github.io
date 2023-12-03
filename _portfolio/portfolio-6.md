@@ -1,6 +1,6 @@
 ---
 title: "Insurance Premium Prediction using Machine Learning (Streamlit, Batch Predictions)"
-excerpt: "Orchestrated robust end-to-end data science pipelines using Python, handling data ingestion, data validation, data preprocessing, model training, and model deployment using Streamlit to ensure accurate fraud prediction."
+excerpt: "Orchestrated robust end-to-end data science pipelines using Python, handling data ingestion, data validation, data preprocessing, model training, and model deployment using Streamlit to predict Insurance Premium of Customers."
 collection: portfolio
 ---
 
