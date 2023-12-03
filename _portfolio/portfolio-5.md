@@ -1,4 +1,3 @@
-Credit Churn Prediction
 ---
 title: "Credit Churn Prediction using MLOPS(MLFLOW), Streamlit and Amazon EC2"
 excerpt: "Orchestrated robust end-to-end data science pipelines using Python, handling data ingestion, data validation, data preprocessing, model training, and model deployment using MLFLOW, Streamlit and Amazon EC2"
