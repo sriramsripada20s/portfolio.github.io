@@ -10,6 +10,18 @@ collection: portfolio
 3. Used MLFLOW for machine learning model tracking and logging.
 4. Deployed my web app on Amazon EC2 infrastructure.
 
+**Various Data Pipelines are Built for various Stages involved in my Project**
+1. Data Ingestion
+2. Data Validation
+3. Data Transformation
+4. Model Training
+5. Model Evaluation
+
+**Project Architecture**
+
+![image](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/65c7ed51-590d-4989-9bf6-4f6aba978d13)
+
+
 Below are some of the screenshots for my streamlit web application and Amazon Ec2 Deployment.
 
 **Customer Churn Streamlit Web App**
