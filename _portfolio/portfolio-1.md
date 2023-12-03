@@ -10,6 +10,8 @@ Fault severity prediction is a crucial business statistic for telecom providers 
 
 ![telstra](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/e4b88a19-9461-4c8c-8c2b-dc5dda167e67)
 
+You can find my Proect Documentation [here](https://drive.google.com/file/d/1cXJzoEHox_p6trfKMiRAXPN3iZ3ZhfYM/view)
+
 
 **Objective**
 
