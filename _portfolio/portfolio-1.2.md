@@ -26,6 +26,9 @@ Streamlit application which Predict the Insurance premium of various customers b
 
 Click [here](https://premiumpredictionml-6qbcnzg5tpe6xp4t77at3u.streamlit.app/) to access my streamlit app.
 
+**Strealit Web Application**
+![image](https://github.com/sriramsripada20s/portfolio.github.io/assets/49833524/837254b6-6a5e-4cbe-8690-b703a996df94)
+
 You can find the Project code [here](https://github.com/sriramsripada20s/Premium_Prediction_ML)
 
 
