@@ -1,5 +1,5 @@
 ---
-title: "Insurance Premium Prediction using Machine Learning (Streamlit, Batch Predictions)"
+title: "Insurance Premium Prediction Using Machine Learning(Batch Predictions, Streamlit, Amazon EC2, Docker, Git Version Control"
 excerpt: "Orchestrated robust end-to-end data science pipelines using Python, handling data ingestion, data validation, data preprocessing, model training, and model deployment using Streamlit to predict Insurance Premium of Customers."
 collection: portfolio
 ---
