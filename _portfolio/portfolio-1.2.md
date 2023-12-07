@@ -13,9 +13,13 @@ Built Machine learning model and streamlit web web application for Insurance Pre
 Various Data Pipelines are Built for various Stages involved in my Project
 
 1.Data Ingestion
+
 2.Data Validation
+
 3.Data Transformation
+
 4.Model Training
+
 5.Model Evaluation
 
 You can find the Project code [here](https://github.com/sriramsripada20s/Premium_Prediction_ML)
