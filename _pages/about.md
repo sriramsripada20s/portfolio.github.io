@@ -80,25 +80,20 @@ market trends across industries.
 
 **Duration:** Jan 2021 - Aug 2022
 
-* Developed **Python scripts** that **reduced data retrieval and processing time for various network devices by 40%** through efficient
-utilization of SNMP protocol, resulting in **enhanced data accessibility and operational efficiency** for a **leading US broadband company.**
+* Developed and optimized advanced statistical data models to develop AI/ML algorithms using Python. Utilized internal & external raw data sources to enhance operational efficiency, achieving a measurable 30% increase in decision making.
+  
+* Implemented data processing pipelines for critical stages: data ingestion, data transformation, and streamlined model training using Python for predictive modeling, improving model training performance and deployment time by 25%.
+  
+* Collaborated with data science and engineering team to deploy ML models (random forest, decision trees) using Python. Deployed machine learning models in production as REST APIs using AWS Sagemaker and Docker, saving $200k/year.
 
-* Optimized and worked on **validating the quality assurance** of data polled from **Kafka topics** which **maximized data quality by 20%.**
-
-* **Reduced software deployment time by 50% in a DevOps** environment through **development of Linux/Unix shell scripts** and leveraged
-Git version control and CI/CD pipelines.
 
 ## Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India
 
 **Duration:** Aug 2020 - Dec 2020
 
-* Performed thorough **exploratory data analysis, feature engineering, anomaly detection and leveraged Python** to implement
-Machine Learning algorithms, resulting in a significant 25% increase in model’s accuracy for both classification and regression.
+* Enhanced data analysis accuracy by 95% using Python-based machine learning using descriptive and predictive data science techniques. Presented findings to team members, and delivered business insights to stakeholders.
 
-* Implemented data analysis using **statistical techniques** to monitor key performance metrics like R2 score and log loss.
-
-* Designed **database schemas** to store scraped data and unified data storage resolving 30% of data quality issues faced in
-modelling.
+* Employed statistical modeling (outlier detection, A/B testing) using Python to address business challenges, contributing to a 15% enhancement in data-driven decision-making and overall business value across the organization.
 
 
 # Certifications & Leadership
