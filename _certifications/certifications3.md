@@ -1,10 +1,13 @@
-title	excerpt	collection
-
-**Apache Spark Core APIs**
+---
+title: "****Apache Spark Core APIs Certification**"
+excerpt: "Learned fundamental concepts related to Core APIs used in Apache Spark"
+collection: certifications
+---
 
 Learned fundamental concepts related to Apache Spark Core APIs
 
 **Apache Spark Core APIs Certification** [Verify](https://learn.trendytech.in/certificates/v08rfauypp)
+
 
 **My Learnings**
 1. Learned about different transformations like map, filter, reduceByKey, reduce, sortby, sortbykey, groupbykey that help create new RDDs
