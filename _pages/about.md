@@ -31,7 +31,7 @@ redirect_from:
 
 **University of South Florida** 
 
-* Master's in Business Analytics and Information Systems **_GPA:3.71_**
+* Master's in Business Analytics and Information Systems **_GPA:3.80_**
 
 * Duration: Aug 2022 - May 2024
 
@@ -70,7 +70,7 @@ using Python programming, leading to a significant 40% decrease in data errors a
 
 * **Led team of up to 3 Interns** to enhance the existing strategy for a **leading Non-Government Organization(NGO) using Python and Tableau**
 
-* Leveraged **natural language processing techniques(NLP**) like **tokenization, topic modeling and text summarization** to extract valuable
+* Leveraged **Natural language processing techniques(NLP**) like **tokenization, topic modeling and text summarization** to extract valuable
 insights from text data which enhanced competitive advantage by staying ahead of industry trends.
 
 * Designed interactive **dashboards using Tableau** enabling stakeholders to interpret data-driven insights, leading to 2x faster response to
@@ -89,7 +89,7 @@ market trends across industries.
 
 ## Machine Learning Intern at [SkillAscend](https://www.skillascend.com/), Hyderabad, India
 
-**Duration:** Aug 2020 - Dec 2020
+**Duration:** May 2020 - Dec 2020
 
 * Enhanced data analysis accuracy by 95% using Python-based machine learning using descriptive and predictive data science techniques. Presented findings to team members, and delivered business insights to stakeholders.
 
@@ -101,6 +101,8 @@ market trends across industries.
 **Databricks Accreditation Lakehouse Fundamentals** [Verify](https://credentials.databricks.com/2d4dfabd-0a29-496d-a590-e43347066bf0)
 
 **Distributed Storage and Processing Fundamentals Certification** [Verify](https://learn.trendytech.in/certificates/gkm5t2face)
+
+**Apache Spark Core APIs** [Verify](https://learn.trendytech.in/certificates/v08rfauypp)
 
 **Presented Internship Project** at **DSSG 2023 Conference**, highlighting **social impact** through data-driven solutions 
 [Watch Youtube Event](https://www.youtube.com/watch?v=VfJNe8VmRwA)
