@@ -1,5 +1,5 @@
 ---
-title: "****Apache Spark Core APIs Certification**"
+title: "**Apache Spark Core APIs Certification**"
 excerpt: "Learned fundamental concepts related to Core APIs used in Apache Spark"
 collection: certifications
 ---
